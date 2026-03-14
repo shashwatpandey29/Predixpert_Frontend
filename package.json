@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:8000",
+  "proxy": "https://predixpert-backend.onrender.com",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@radix-ui/react-tooltip": "^1.2.7",
